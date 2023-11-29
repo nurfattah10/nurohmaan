@@ -1,2 +1,0 @@
-# nurohmaan
-project saya sendiri
